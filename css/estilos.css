@@ -8,11 +8,8 @@ body
     padding: 0;
 }
 
-#cabecera #logo
-{
-    width: 20px;
-    vertical-align: middle;
-}
+
+
 #cabecera
 {
     background: #33A;
